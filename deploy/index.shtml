@@ -6,12 +6,12 @@
 <body>
     <h1>Deployment on Render</h1>
     <ul>
-        <li><p><strong>Name: </strong>Alexander Nimo</p></li>
-        <li><p><strong>GitHub Location:</strong> <a href="https://github.com/animo331/animoTERP">https://github.com/animo331/animoTERP</a></p></li>
-        <li><p><strong>Render Location:</strong> <a href="https://animoTERP.onrender.com">https://animoTERP.onrender.com</a></p></li>
-        <li><p><strong>Clearing Database Movies:</strong> <a href="https://animoTERP.onrender.com/clearCollection">https://animoTERP.onrender.com/clearCollection</a></p></li>
-        <li><p><strong>Inserting Movies:</strong> <a href="https://animoTERP.onrender.com/insertMovies">https://animoTERP.onrender.com/insertMovies</a></p></li>
-        <li><p><strong>List Movies:</strong> <a href="https://animoTERP.onrender.com/listMovies">https://animoTERP.onrender.com/listMovies</a></p></li>       
+        <li><strong>Name: </strong>Alexander Nimo</li>
+        <li><strong>GitHub Location:</strong> <a href="https://github.com/animo331/animoTERP">https://github.com/animo331/animoTERP</a></li>
+        <li><strong>Render Location:</strong> <a href="https://animoTERP.onrender.com">https://animoTERP.onrender.com</a></li>
+        <li><strong>Clearing Database Movies:</strong> <a href="https://animoTERP.onrender.com/clearCollection">https://animoTERP.onrender.com/clearCollection</a></li>
+        <li><strong>Inserting Movies:</strong> <a href="https://animoTERP.onrender.com/insertMovies">https://animoTERP.onrender.com/insertMovies</a></li>
+        <li><strong>List Movies:</strong> <a href="https://animoTERP.onrender.com/listMovies">https://animoTERP.onrender.com/listMovies</a></li>       
     </ul>  
 </body>
 </html>
